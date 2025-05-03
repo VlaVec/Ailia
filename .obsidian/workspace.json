@@ -197,12 +197,32 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "e6313ffe83c15acf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "33fdae47c3c25e29",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
               "icon": "BC-trail-icon",
               "title": "Breadcrumbs Matrix"
             }
           },
           {
-            "id": "e6313ffe83c15acf",
+            "id": "dc46d947d3e5aeb5",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -212,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -230,13 +250,10 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "rpg-manager:RPG Manager": false,
-      "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f4718abe851efd2e",
+  "active": "dc46d947d3e5aeb5",
   "lastOpenFiles": [
     "World/Таймлайн/Timeline bar/Kilikian Era.md",
     "World/ЛОР/История/Киликийская Эра/Столетие Благоденствия/Провозглашение Лорианской Теократии.md",
