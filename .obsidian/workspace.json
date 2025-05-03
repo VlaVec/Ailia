@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "ce83cebc9bb80c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "beea0bc100f08b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4718abe851efd2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/География/Территории/Осталион/Поселения/Нерия/Мелкие поселения/Орвония.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Орвония"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb3b105ce1d083af",
+    "type": "split",
+    "children": [
+      {
+        "id": "f318560e776fc4e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4d7586272443c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9d4f907c767eff2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#timeline",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4108dbecb98da00c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0793923c05df7ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "498a4b6bb5cc9cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58109a173768b29a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/Таймлайн/События/Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "10efdc482892cac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Таймлайн/События/Без названия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "4e1031e7166f76c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f8352f3afde074c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Таймлайн/События/Без названия.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          },
+          {
+            "id": "ac837d31f74a002b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "9ef3cc8db162f590",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "6c009e57f613f913",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "7fc9327983ae96fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "10095636d41e7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "e6313ffe83c15acf",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "rpg-manager:RPG Manager": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+    }
+  },
+  "active": "f4718abe851efd2e",
+  "lastOpenFiles": [
+    "World/Таймлайн/Timeline bar/Kilikian Era.md",
+    "World/ЛОР/История/Киликийская Эра/Столетие Благоденствия/Провозглашение Лорианской Теократии.md",
+    "World/ЛОР/История/Киликийская Эра/Столетие Благоденствия/Ночь Костров (Озарение Белого Пламени).md",
+    "World/ЛОР/История/Киликийская Эра/Столетие Благоденствия/Восстание Лориана.md",
+    "World/ЛОР/История/Киликийская Эра/Столетие Благоденствия/Вторжение в Нерию.md",
+    "World/Персонажи/Исторические фигуры/Пророк Белого Пламени.md",
+    "World/ЛОР/Религии/Культ Белого Пламени.md",
+    "Черновики/заметки/добавить в ЛОР.md",
+    "World/Персонажи/Исторические фигуры/Платон Летописец.md",
+    "World/Персонажи/Герои/Торвфи Лунный Камень.md",
+    "World/Персонажи/Герои/Шепчущая Зара.md",
+    "World/Фракции и Организации/Шепчущие.md",
+    "World/География/Территории/Осталион/Страны и Королевства/Лорианская Теократия.md",
+    "World/География/Территории/Осталион/Регионы/Острый Хребет.md",
+    "World/География/Территории/Осталион/Поселения/Нерия/Города/Харб.md",
+    "World/География/Территории/Осталион/Поселения/Нерия/Мелкие поселения/Орвония.md",
+    "World/География/Территории/Осталион/Поселения/Нерия/Мелкие поселения",
+    "World/География/Территории/Осталион/Поселения/Нерия/Города",
+    "Черновики/Шаблоны/Village.md",
+    "World/География/Территории/Осталион/Поселения/Нерия/Города/Коларагрим.md",
+    "World/География/Территории/Осталион/Страны и Королевства/Торсмарская Империя.md",
+    "World/География/Территории/Осталион/Страны и Королевства/Королевство Нерия.md",
+    "World/География/Территории/Орстад/Орстад.md",
+    "World/География/Территории/Айрил-Шоладан/Айрил-Шоладан.md",
+    "World/География/Территории/Орстад",
+    "World/География/Территории/Вестар/Вестар.md",
+    "World/География/Территории/Айрил-Шоладан",
+    "World/География/Территории/Осталион/Осталион.md",
+    "World/География/Территории/Вестар",
+    "Черновики/Шаблоны/Continent.md",
+    "Черновики/Шаблоны/Continent.txt",
+    "World/География/Территории/Осталион",
+    "Черновики/Шаблоны/Region.md",
+    "Изображения/Карты/Kolaragrim map.png",
+    "Изображения/Карты",
+    "Изображения",
+    "Черновики/заметки"
+  ]
+}
